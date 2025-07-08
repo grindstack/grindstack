@@ -5,9 +5,8 @@ I'm a web designer who thrives in the quiet hours — where code becomes art and
 #### ⚒️ What I Do
 - Craft responsive, accessible web interfaces using **HTML, CSS, and JavaScript**
 - Solve backend problems using **C, C++**, and **MS SQL**
-- Bridge design and development with a full-stack mindset
 
-#### 🧰 Tools I Trust
+#### 🧰 Tools 
 - HTML5 / CSS3 / JS
 - C / C++ (for structured logic and low-level thinking)
 - MS SQL Server (queries, procedures, normalization)
