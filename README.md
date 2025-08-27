@@ -22,6 +22,5 @@
 </p>
 
 ### Streak Stats
-<p align="left">
-  <img src="https://streak-stats.demolab.com/?user=grindstack&theme=tokyonight" alt="GitHub Streak" />
-</p>
+![GitHub Streak](https://streak-stats.demolab.com?user=grindstack&theme=tokyonight)
+
