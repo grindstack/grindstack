@@ -1,10 +1,12 @@
 <h1 align="center">Hi , I'm fatimah</h1>
-<h3 align="center"> A passionate Full Stack Developer </h3>
+<h3 align="center"> Computer Science student </h3>
 										  
 
 ###  About Me
-- Currently learning **React & Solving Leetcode problems**
-- Goals for 2025: **Grow my GitHub by adding projects & contributing to open source.**
+- Currently a CS student running multiple processes at once:
+web_dev.exe, ai_model.py, os_kernel.c, ca_pipeline.v, and se_theory.pdf.
+ Please send help, or coffee ☕
+- Goals for 2025: **Make cool projects !**
 
 
 ###  Languages & Tools  
