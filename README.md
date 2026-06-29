@@ -14,6 +14,18 @@ I am a CS student and right now focused on designing AI agents that can actually
 
 - Build AI systems that are autonomous, reliable and production-ready.
 
+### 🌐 Communities
+**ACM Student Member**  I hold an official student membership of the [Association for Computing Machinery](https://www.acm.org/) (ACM), the world's largest computing society advancing technology as a science and profession. Reach out at fatimanaveed2@acm.org for any queries or to connect.
+
+
+**Scrimbassador @ Scrimba 🎓**
+I'm an official Scrimbassador at [Scrimba](https://scrimba.com/?via=u42b356a) — an interactive learning platform that makes coding education genuinely effective through hands-on, in-browser experiences.
+
+> 💡 Use my referral link to get **20% off** your subscription.
+
+[![20% Discount off Scrimba](https://i.ibb.co/HD3x73NB/scrimbassadors-cta.png)](https://scrimba.com/?via=u42b356a)
+
+
 <div align="center">
 	
 ---
