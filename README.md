@@ -1,18 +1,18 @@
 <h1 align="center">Hi, I'm fatimah</h1>
-<h3 align="center">Computer Science Junior</h3>
+<h3 align="center">Computer Science Student</h3>
 
 ### ✧ About Me ✧
-I am a CS student and right now focused on designing AI agents that can actually execute workflows and on deploying ML models into usable applications.
-
+I am a final-year CS student focused on building AI systems that can reason, plan, and act. My work sits at the intersection of applied ML research and agentic AI engineering, with a strong bias toward shipping things that actually work in the real world.
 ### Current Workload 
 
-- `agentic_ai.py` → planning + decision-making systems  
-- `ml_models.py` → training and experimentation  
-- `full_stack_apps/` → turning models into real interfaces  
+- `agentic_ai.py` → designing multi-step agents with planning, memory, and tool use  
+- `ml_models.py` → training, experimenting, and optimizing models on real-world  
+- `full_stack_apps/` → deploying ML into usable, production-ready interfaces  
 
 ### Goals 
 
 - Build AI systems that are autonomous, reliable and production-ready.
+- Contribute to applied AI research with real-world impact
 
 ### 🌐 Communities
 **ACM Student Member**  I hold an official student membership of the [Association for Computing Machinery](https://www.acm.org/) (ACM), the world's largest computing society advancing technology as a science and profession. Reach out at fatimanaveed2@acm.org for any queries or to connect.
